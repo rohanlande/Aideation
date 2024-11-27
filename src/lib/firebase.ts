@@ -5,13 +5,14 @@ import { getDownloadURL, getStorage, ref, uploadBytes } from "firebase/storage";
 // https://firebase.google.com/docs/web/setup#available-libraries
 
 // Your web app's Firebase configuration
+
 const firebaseConfig = {
   apiKey: process.env.FIREBASE_API_KEY,
-  authDomain: "aideation-yt.firebaseapp.com",
-  projectId: "aideation-yt",
-  storageBucket: "aideation-yt.appspot.com",
-  messagingSenderId: "962348384448",
-  appId: "1:962348384448:web:e02758407aba3258d5ad25",
+  authDomain: "aideation-394b6.firebaseapp.com",
+  projectId: "aideation-394b6",
+  storageBucket: "aideation-394b6.firebasestorage.app",
+  messagingSenderId: "164390425348",
+  appId: "1:164390425348:web:02b908906f2277d66b3651",
 };
 
 // Initialize Firebase
